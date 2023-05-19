@@ -22,7 +22,7 @@
     "url": "https://Silvereen-Network-Bot.sm-group.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/silvereen-network-bot.sm-group.repl.co.ico",
     "slug": "silvereen-network-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "94.97%",
     "uptimeWeek": "99.28%",
@@ -34,6 +34,7 @@
     "timeMonth": 2071,
     "timeYear": 2179,
     "dailyMinutesDown": {
+      "2023-05-19": 0,
       "2023-05-18": 73,
       "2023-05-10": 35,
       "2023-05-09": 36,
