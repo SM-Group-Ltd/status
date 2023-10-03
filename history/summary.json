@@ -15,7 +15,9 @@
     "timeWeek": 72,
     "timeMonth": 69,
     "timeYear": 88,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Silvereen Network Discord Bot",
