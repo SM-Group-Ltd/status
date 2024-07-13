@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 208,
-    "timeWeek": 121,
-    "timeMonth": 80,
+    "timeDay": 58,
+    "timeWeek": 123,
+    "timeMonth": 78,
     "timeYear": 80,
     "dailyMinutesDown": {
       "2023-10-03": 21
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/silvereen-network-bot.sm-group.repl.co.ico",
     "slug": "silvereen-network-discord-bot",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.15%",
-    "time": 2175,
-    "timeDay": 925,
-    "timeWeek": 1329,
-    "timeMonth": 968,
-    "timeYear": 1969,
+    "uptimeYear": "92.17%",
+    "time": 2177,
+    "timeDay": 1613,
+    "timeWeek": 1376,
+    "timeMonth": 992,
+    "timeYear": 1966,
     "dailyMinutesDown": {
       "2024-02-07": 1364,
       "2024-02-06": 1440,
@@ -74,8 +74,7 @@
       "2023-09-04": 17,
       "2023-08-08": 16,
       "2023-08-02": 21,
-      "2023-07-24": 42,
-      "2023-07-14": 21
+      "2023-07-24": 42
     }
   }
 ]
